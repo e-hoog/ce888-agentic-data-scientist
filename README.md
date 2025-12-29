@@ -2,7 +2,7 @@
 
 **Assignment:** Offline Agentic AI for Data Science  
 **Module:** CE888  
-**Academic Year:** 2024/2025
+**Academic Year:** 2025/2026
 
 ---
 
