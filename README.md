@@ -308,4 +308,10 @@ Before submitting, ensure:
 
 ---
 
+## Release & License
+
+- **Release:** When you're ready to make the repository public, use the **Actions → Make repository public (manual)** workflow and trigger it with `confirm=YES` (see `SETUP_GUIDE.md` for details). This workflow performs a controlled release and can optionally create a `v1.0.0` release for student distribution.
+
+- **License:** This project is released under the **MIT License** by default. See `LICENSE` for full terms. If you'd prefer a different license (e.g., Apache-2.0, CC-BY), replace `LICENSE` accordingly before publishing.
+
 **Good luck with your assignment! Build something you're proud of!** 🚀
