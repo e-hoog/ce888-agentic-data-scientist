@@ -302,9 +302,9 @@ Before submitting, ensure:
 
 ## Contact
 
-**Module Leader:** [Your Name]  
-**Email:** [email]  
-**Office Hours:** [times]
+**Module Leader:** Dr Haider Raza  
+**Email:** use my essex email address
+**Office Hours:** Monday and Friday 9-10 AM. 
 
 ---
 
