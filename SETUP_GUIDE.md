@@ -161,6 +161,8 @@ Steps to use it safely:
 
 > Note: The workflow will only run when you manually trigger it and provide `confirm=YES`. It will not run automatically on a schedule.
 
+**CI Note:** Continuous Integration currently runs on **Python 3.11** only (kept pinned for faster, more reliable runs); see `.github/workflows/ci.yml` if you want to restore a multi-version matrix.
+
 ---
 
 ## Step 7: Start Developing
