@@ -255,26 +255,23 @@ Before submitting, ensure:
 - [ ] Test coverage >60%
 - [ ] All core components extended significantly
 - [ ] At least 3 advanced features implemented
-- [ ] Code follows PEP 8 guidelines
-- [ ] Comprehensive documentation with docstrings
-- [ ] GitHub repository is clean and organized
+- [ ] GitHub repository is clean and organised
 
 ---
 
 ## Getting Help
 
-- **Lectures:** Weeks [X] and [Y] - check Moodle for recordings
-- **Lab Sessions:** [Schedule] - bring specific questions
-- **Office Hours:** [Times] - book via [system]
+- **Lectures:** All the lectures and labs are important. Each session will enhance your knowledge. 
+- **Office Hours:** 9-10 am (Monday and Friday)
 - **Forum:** Moodle discussion board - for clarifications (no code sharing)
 
 ---
 
 ## Important Deadlines
 
-- **Data Exploration Demo:** [Week X] - Book your slot early
-- **Code Submission:** [Date] at 23:59 GMT
-- **Final Demo:** [Week Y] - Book your slot early
+- **Data Exploration**. Deadline:  16-Feb-2026 13:59:59
+- **Final Project Demonstration**. Deadline:  21-Apr-2026 13:59:59
+- **Final Project Code**. Deadline:  21-Apr-2026 13:59:59
 
 ---
 
