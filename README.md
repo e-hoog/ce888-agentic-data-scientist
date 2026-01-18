@@ -123,21 +123,6 @@ ce888-agentic-data-scientist/
    - Implement richer experience storage
    - Enable learning from past executions
 
-### Advanced Features (Choose at least 3)
-
-Implement at least **3** of these for grades 70%+:
-
-- [ ] Adaptive algorithm selection with meta-learning
-- [ ] Intelligent feature engineering
-- [ ] Advanced imbalance handling (SMOTE, threshold tuning)
-- [ ] Hyperparameter optimization
-- [ ] Ensemble strategy optimizer
-- [ ] Automated anomaly detection & data cleaning
-- [ ] Explainability module
-- [ ] Cost-aware planning
-- [ ] Iterative improvement loop with convergence
-- [ ] Automated HTML/PDF report generation
-
 ### Evaluation & Reporting
 
 - Test on **at least 3 diverse classification datasets**
