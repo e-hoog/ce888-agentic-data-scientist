@@ -24,7 +24,7 @@ Your agent will use **rule-based reasoning, heuristics, and meta-learning** to a
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/[your-username]/ce888-agentic-data-scientist.git
+git clone https://github.com/sagihaider/ce888-agentic-data-scientist.git
 cd ce888-agentic-data-scientist
 ```
 
